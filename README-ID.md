@@ -2,6 +2,13 @@
 
 **ZipPress** adalah aplikasi berbasis web yang memungkinkan pengguna untuk mengompresi gambar dengan berbagai tingkat kualitas serta mengemasnya dalam format ZIP dengan mudah. 🚀
 
+## 🔗 Live Demo
+
+Proyek ini tersedia di:
+[🔗 ZipPress - Live Demo](https://your-project-link.com)
+
+Dukung proyek ini dengan memberikan ⭐ di GitHub!
+
 ## 🌟 Fitur Utama
 
 - **Kompresi Gambar**: Pilih antara kualitas tinggi, sedang, atau rendah.
@@ -44,13 +51,6 @@ To run ZipPress locally, follow these steps:
 - **Tailwind CSS** untuk styling yang modern.
 - **browser-image-compression** untuk kompresi gambar.
 - **JSZip** untuk membuat file ZIP.
-
-## 🔗 Demo & Backlink
-
-Proyek ini tersedia di:
-[🔗 ZipPress - Live Demo](https://your-project-link.com)
-
-Dukung proyek ini dengan memberikan ⭐ di GitHub!
 
 ## 📜 Lisensi
 
