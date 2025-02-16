@@ -5,7 +5,7 @@
 ## 🔗 Live Demo
 
 This project is available at:
-[🔗 ZipPress - Live Demo](https://your-project-link.com)
+[🔗 ZipPress - Live Demo](https://zip-press.vercel.app/)
 
 Support this project by giving it a ⭐ on GitHub!
 
