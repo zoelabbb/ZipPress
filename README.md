@@ -58,4 +58,4 @@ ZipPress is released under the MIT License. Feel free to use and enhance it furt
 
 ---
 
-💡 **Created with ❤️ by [Ryu-san](https://github.com/zoelabbb)**
+💡 **Created with ❤️ by [アリフリュウ](https://github.com/zoelabbb)**

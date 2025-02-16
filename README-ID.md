@@ -58,4 +58,4 @@ ZipPress dirilis di bawah lisensi MIT. Silakan gunakan dan kembangkan lebih lanj
 
 ---
 
-💡 **Dibuat dengan ❤️ oleh [Ryu-san](https://github.com/zoelabbb)**
+💡 **Dibuat dengan ❤️ oleh [アリフリュウ](https://github.com/zoelabbb)**
