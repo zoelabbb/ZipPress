@@ -52,7 +52,7 @@
     <h2 class="text-3xl font-bold text-center mb-6 bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">Image Compressor</h2>
     <div class="space-y-6">
       <div>
-        <label class="block text-gray-300 font-medium mb-2">Pilih Kualitas:</label>
+        <label for="quality" class="block text-gray-300 font-medium mb-2">Pilih Kualitas:</label>
         <select id="quality" bind:value={quality} class="w-full p-3 bg-gray-700 border border-gray-600 rounded-lg focus:ring-2 focus:ring-blue-400 focus:outline-none">
           <option value="high">High</option>
           <option value="medium" selected>Medium</option>
@@ -65,7 +65,7 @@
       {#if compressedURL}
         <div class="text-center">
           <p class="text-gray-300 font-medium mb-3">Gambar Terkompres:</p>
-          <img src={compressedURL} class="mx-auto mt-3 rounded-md shadow-md border border-gray-600 max-h-64" />
+          <img src={compressedURL} alt="Compressed" class="mx-auto mt-3 rounded-md shadow-md border border-gray-600 max-h-64" />
           <div class="mt-6 space-y-3">
             <a href={compressedURL} download="compressed.jpg" class="block w-full bg-blue-500 text-white py-3 rounded-lg hover:bg-blue-600">Download Gambar</a>
             <button on:click={createZip} class="block w-full bg-green-500 text-white py-3 rounded-lg hover:bg-green-600">Buat ZIP</button>
